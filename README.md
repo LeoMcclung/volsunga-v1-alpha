@@ -1,6 +1,6 @@
 # volsunga-v1-alpha
 
-Volsunga is a fantasy adventure rpg that focuses on instant action and keeping the player engaged without the need for significant time commitment.
+Völsung is fast paced, 3D RPG, based of themes from Norse Mythology. Become a legendary warrior from the mighty Völsung Clan, and attempt to save the mortal world from the overflowing, destruction of Ragnarök. Enjoy engaging environments and an immervise story, without the need for significant time investment. Combine artifacts recovered from powerful enemies to craft Legendary weapons and items. Continuously reform your strategies, and relive the legend by maintaining your stats, even after death!
 
 ## Getting Started
 
