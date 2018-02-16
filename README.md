@@ -12,15 +12,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Knowledge of C# and the Unity 3d engine
 
-### Installing
+### Installing and Playing the Game
 
-- Download and intall Unity 3D
-
-- The 3d assets used in this game are too large for github, please download the files from the google drive link provided.
-
-- Open the project in Unity by opening the volsunga-v1 folder
-
-- Use Unity's build settings to rebuild the game if it has been edited (optional)
+- Download the files privided in the google drive link
+- Double click on the volsung-testv4.exe file
+- Play!
 
 ## Built With
 
