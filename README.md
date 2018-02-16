@@ -10,11 +10,9 @@ These instructions will get you a copy of the game up and running on your local 
 
 - Current build requires a PC, OSX version coming soon
 
-### Installing and Playing the Game
+### Installing and Playing the Game (coming soon)
 
-- Download the files privided in the google drive link
-- Double click on the volsung-testv4.exe file
-- Play!
+- Simply download and double click the Volsunga-Alpha-v1.exe file and play the game!
 
 ## Built With
 
