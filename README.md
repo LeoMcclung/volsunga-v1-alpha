@@ -4,13 +4,11 @@ Völsung is fast paced, 3D RPG, based of themes from Norse Mythology. Become a l
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the game up and running on your local machine.
 
 ### Prerequisites
 
-- Latest Version of the Unity 3D game making engine.
-
-- Knowledge of C# and the Unity 3d engine
+- Current build requires a PC, OSX version coming soon
 
 ### Installing and Playing the Game
 
@@ -25,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Contributing
 
-Please DO NOT redistribute this product without first making a pull request to this repo, and requesting permission to modify our Game. Please include as many details as possible when making pull requests, including names, github links, and intentions for modifying Jogger. If approved to modify and/ or redistribute, please include credit for all original features to Leo McClung.
+Please DO NOT redistribute this product without first making a pull request to this repo, and requesting permission to modify the Game. If approved to modify and/ or redistribute, please include credit for all original features to Leo McClung.
 
 ## Versioning
 
